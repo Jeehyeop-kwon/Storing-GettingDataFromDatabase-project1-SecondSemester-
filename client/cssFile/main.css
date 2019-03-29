@@ -1,0 +1,36 @@
+
+
+body {
+	background-image: url('background.jpg');
+	background-size: cover;
+
+}
+main {
+
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+input.w3-margin-top {
+margin-top: 30px !important;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+  background-color: #4CAF50;
+  color: black;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+	background-color: grey;
+}
+

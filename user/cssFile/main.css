@@ -1,0 +1,16 @@
+
+
+body {
+	background-image: url('background.jpg');
+	background-size: cover;
+
+}
+main {
+
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+input.w3-margin-top {
+margin-top: 30px !important;
+}
